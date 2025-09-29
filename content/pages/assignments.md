@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on reading response assignments, a
   narrative analysis assignment, and a participatory action research assignment.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -36,4 +38,4 @@ Assignment 2
 
 In the final two weeks of the course (weeks 5 and 6), students will be asked to prepare and present detailed analyses of an actual PAR case, with a particular focus on the methods used to gather and analyze data, the ways in which findings were validated and the ways in which the ethical dilemmas discussed in class were handled.
 
-Additional student examples from previous versions of this course can be found on the {{% resource_link "53edb46d-89d8-4f7b-95ea-69f9b13d9f30" "Participatory Action Research at MIT" %}} website.
+Additional student examples from previous versions of this course can be found on the [Participatory Action Research at MIT](https://actionresearch.mit.edu/par-workbook) website.

@@ -5,6 +5,8 @@ description: 'Reading notes on chapters 4 and 5 in Introduction to Action Resear
 file: /courses/11-237-practice-of-participatory-action-research-par-spring-2016/29b8b94c556ed0fec9a6258cc4240807_MIT11_237S16_Greenwood.pdf
 file_size: 549164
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -34,9 +34,9 @@
     "website": "11-237-practice-of-participatory-action-research-par-spring-2016"
   },
   "course_title": "Practice of Participatory Action Research (PAR)",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
-  "course_description": "This course introduces students to the techniques of participatory action research (PAR) and the practice of case study research. PAR processes are place or case-specific, place a premium on local ways of knowing, and gauge the success of research in terms of what partner-communities do with the knowledge that is co-produced. The objective of PAR is to generate the ideas, information, and understandings that ought to inform efforts to promote social change. By focusing on ways of co-producing knowledge using various forms of data collection and analysis, students will learn how the people and communities who are often university partners in applied social science research can use findings or results from PAR case studies to address the challenges they confront in their communities.\n\nLearn more about {{% resource_link \"f607ac6d-ec0b-4db4-9ef1-7665b3046a4c\" \"Participatory Action Research at MIT\" %}}.",
+  "course_description": "This course introduces students to the techniques of participatory action research (PAR) and the practice of case study research. PAR processes are place or case-specific, place a premium on local ways of knowing, and gauge the success of research in terms of what partner-communities do with the knowledge that is co-produced. The objective of PAR is to generate the ideas, information, and understandings that ought to inform efforts to promote social change. By focusing on ways of co-producing knowledge using various forms of data collection and analysis, students will learn how the people and communities who are often university partners in applied social science research can use findings or results from PAR case studies to address the challenges they confront in their communities.\n\nLearn more about [Participatory Action Research at MIT](https://www.colab.mit.edu/blog/2018/2/6/participatory-action-research).",
   "department_numbers": [
     "11"
   ],
@@ -46,6 +46,7 @@
     "content": "f69c7592-fb8d-d6e4-e8ed-957e264ebbf3",
     "website": "11-237-practice-of-participatory-action-research-par-spring-2016"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
